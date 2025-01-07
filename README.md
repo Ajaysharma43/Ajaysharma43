@@ -2,8 +2,8 @@
 🌱 Currently Pursuing:
 I’m on an exciting journey, working towards my B.Tech in Computer Science and Engineering at Rayat Bahara University. 🚀
 
-- 😄 Pronouns: ...
-- He/Him
+ 😄 Pronouns: ...
+ He/Him
 <!--
 **Ajaysharma43/Ajaysharma43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
